@@ -9,3 +9,29 @@ for (let i = 0; i < 100; i += 1) {
     console.log(i);
   }
 }
+
+
+/*
+
+
+
+var number = prompt("Enter Number");
+
+	if(number % 3 == 0 )
+    {
+      if(number % 3 ==0 && number % 5 == 0)
+      {
+        prompt("FizzBuzz");
+      }
+      else
+      {
+         prompt("Fizz");       
+        
+	   }
+      
+    }
+	else if(number % 5 == 0)
+    {
+      prompt("Buzz")
+    } 
+*/
